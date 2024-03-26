@@ -1,0 +1,22 @@
+{
+  "pensamentos":[
+    {
+      "id": 1,
+      "conteudo":"Estudando",
+      "autoria":"Bia",
+      "modelo":"modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo":"Dormindo",
+      "autoria":"Wes",
+      "modelo":"modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo":"Acordando",
+      "autoria":"Ana",
+      "modelo":"modelo3"
+    }
+  ]
+}
